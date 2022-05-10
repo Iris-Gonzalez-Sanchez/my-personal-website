@@ -1,4 +1,4 @@
-# Pre-work - *My Personal Website
+# Pre-work - *My Personal Website*
 **My Personal Website** is a creative project for FlatIron's SWE Bootcamp.
 
 Submitted by: Iris Gonzalez Sanchez
