@@ -3,6 +3,8 @@
 
 Submitted by: Iris Gonzalez Sanchez
 
+Link to project:  https://iris-gonzalez-sanchez.github.io/my-personal-website/
+
 The following **required** features & functionality is complete:
 
 * [X] Created the base files for your project: README.md, index.html, style.css, and index.js
