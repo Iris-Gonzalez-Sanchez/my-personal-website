@@ -3,7 +3,7 @@
 
 Submitted by: Iris Gonzalez Sanchez
 
-Link to project:  <a href="https://iris-gonzalez-sanchez.github.io/my-personal-website/"></a>
+Link to project:  <a href="https://iris-gonzalez-sanchez.github.io/my-personal-website/">CLICK HERE</a>
 
 The following **required** features & functionality is complete:
 
