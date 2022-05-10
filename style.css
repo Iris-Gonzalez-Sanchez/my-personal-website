@@ -1,0 +1,12 @@
+body {
+    text-align: center;
+    background: url("https://ibb.co/Jr9DFKY");
+    background-size: cover;
+    background-position: center;
+    color: ghostwhite;
+    font-family: 'Playfair Display';
+    font-size: 22px;
+    background: linear-gradient(-50deg, #39ad87, #3990ad, #ad398e, #38272a);
+    background-size: 10% 100%;
+    animation: gradient 20s ease infinite;
+}
