@@ -1,12 +1,62 @@
+html {
+    height: 100%;
+}
+
 body {
     text-align: center;
-    background: url("https://ibb.co/Jr9DFKY");
-    background-size: cover;
     background-position: center;
     color: ghostwhite;
     font-family: 'Playfair Display';
     font-size: 22px;
     background: linear-gradient(-50deg, #39ad87, #3990ad, #ad398e, #38272a);
-    background-size: 10% 100%;
+    background-size: 20% 100%;
     animation: gradient 20s ease infinite;
+}
+
+h1 {
+    font-family: 'Playfair Display';
+    font-size: 2.2em;
+}
+
+p {
+    font-size: 1.4rem;
+}
+
+input {
+    border: 15;
+    padding: 11px;
+    font-size: 15px;
+}
+
+input[type="submit"] {
+    background: mediumvioletred;
+    color: snow;
+    border-radius: 20px;
+}
+
+input[type="text"] {
+    background: snow;
+    border-radius: 30px;
+}
+
+img {
+    height: 190px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 75%;
+}
+
+@keyframes gradient {
+    0% {
+        background-position: 0% 50%;
+    }
+
+    50% {
+        background-position: 100% 50%;
+    }
+
+    100% {
+        background-position: 0% 50%;
+    }
 }
